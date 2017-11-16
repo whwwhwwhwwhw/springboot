@@ -15,6 +15,7 @@ public class Empcontroller {
 
     public void setEp(Emp ep) {
         this.ep = ep;
+        System
     }
     public
 }
